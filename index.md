@@ -2,4 +2,4 @@
 
 My projects
 
-[button url="https://github.com/afkvido]
+<button name="button" onclick="https://github.com/afkvido">My GitHub</button>
