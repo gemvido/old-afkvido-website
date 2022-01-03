@@ -1,1 +1,1 @@
-# afkvido.github.io
+# https://afkvido.github.io
