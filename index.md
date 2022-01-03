@@ -1,5 +1,7 @@
 # gemsvidø
 
+## My repos
+
 ### MessageEngine
 [github.com/afkvido-development/MessageEngine](https://github.com/afkvido-development/MessageEngine)
 
@@ -29,8 +31,9 @@
 
 ### redirect
 [github.com/iii9](https://github.com/iii9)
-_____
-I have contributed to
+
+
+## I have contributed to
 
 ### ProdigyMathGameHacking
 [github.com/Prodigy-Hacking/ProdigyMathGameHacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking)
