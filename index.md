@@ -18,7 +18,10 @@
 [github.com/afkvido/prodigy418](https://github.com/afkvido/prodigy418)
 
 ### afkvido.github.io (this website)
-[github.com/afkvido/afkvido](https://github.com/afkvido/afkvido)
+[github.com/afkvido/afkvido.github.io](https://github.com/afkvido/afkvido.github.io)
+
+### afkvido (my profile)
+[github.com/afkvido](https://github.com/afkvido)
 
 ### deadlyClient for scratch
 [github.com/deadlyClient](https://github.com/deadlyClient)
