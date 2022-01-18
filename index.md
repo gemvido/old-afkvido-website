@@ -100,17 +100,17 @@ Yes i know the websiet is broeken
     
 [GFM] <a href="https://github.com/afkvido/afkvido.github.io">afkvido.github.io</a> - This website (HTML, Markdown, GitHub Flavored Markdown)
     
-[Java] [EncryptCode](https://github.com/afkvido/EncryptCode) - Encrypt your messages with this simple java project! _Discontinued, Archive_ (Pure Java)
+[Java] <a href="https://github.com/afkvido/EncryptCode">EncryptCode</a> - Encrypt your messages with this simple java project! _Discontinued, Archive_ (Pure Java)
     
-[GFM] [prodigyErrCodes](https://github.com/afkvido/prodigyErrCodes) - A list of error codes in Prodigy Math Game, used as an error code tracker for [PMGH](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking). (Markdown, GitHub Flavored Markdown)
+[GFM] <a href="https://github.com/afkvido/prodigyErrCodes">prodigyErrCodes</a> - A list of error codes in Prodigy Math Game, used as an error code tracker for [PMGH](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking). (Markdown, GitHub Flavored Markdown)
         
-[Java] [MessageEngine LITE](https://github.com/afkvido-development/MessageEngineLITE) - chat engine platform thing, but less glitchy (Pure Java)
+[Java] <a href="https://github.com/afkvido-development/MessageEngineLITE">MessageEngineLITE</a> - chat engine platform thing, but less glitchy (Pure Java)
     
-[YML] [MessageEngine ServerTemplate](https://github.com/afkvido-development/MessageEngine-ServerTemplate) - template for MessageEngine chatServers (Mostly YAML)
+[YML]  <a href="https://github.com/afkvido-development/MessageEngine-ServerTemplate">MessageEngine ServerTemplate</a> - template for MessageEngine chatServers (Mostly YAML)
     
-[YML] [MessageEngine API](https://github.com/afkvido-development/MessageEngine-API) - API for MessageEngine updates and more (Mostly YAML)
+[YML] <a href="https://github.com/afkvido-development/MessageEngine-API">MessageEngine API</a> - API for MessageEngine updates and more (Mostly YAML)
     
-[GFM] [afkvido-development website](https://github.com/afkvido-development/afkvido-development.github.io) - github page for afkvido-development (Markdown, GitHub Flavored Markdown)
+[GFM] <a href="https://github.com/afkvido-development/afkvido-development.github.io">afkvido development website</a> - github page for afkvido-development (Markdown, GitHub Flavored Markdown)
     
 </details>
 
