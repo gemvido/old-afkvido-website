@@ -20,6 +20,7 @@ Yes i know the websiet is broeken
 </details>
 
 
+ <p></p>
 
 
 
@@ -33,6 +34,7 @@ Yes i know the websiet is broeken
 
 
 
+ <p></p>
 
 
 
@@ -46,7 +48,7 @@ Yes i know the websiet is broeken
 
 
 
-
+ <p></p>
 
 
 
@@ -60,6 +62,7 @@ Yes i know the websiet is broeken
 
 
 
+ <p></p>
 
 
 
@@ -68,16 +71,18 @@ Yes i know the websiet is broeken
     <summary>My organizations</summary>
     <p></p>
     
-[deadlyClient development](https://github.com/deadlyClient) - deadlyClient
+<a href="https://github.com/deadlyClient">deadlyClient development</a> - deadlyClient
 
-[afkvido development](https://github.com/afkvido-development) - afkvido's official organization
+<a href="https://github.com/afkvido-development">afkvido development</a> - afkvido's official organization
     
-[MsgEngine](https://github.com/MsgEngine) - MessageEngine server collection
+<a href="https://github.com/MsgEngine">MsgEngine</a> - MessageEngine server collection
     
-[ii9](https://github.com/iii9) - Redirect
+<a href="https://github.com/iii9">iii9</a> - Redirect
     
 </details>
 
+
+ <p></p>
 
 
 <details align="left">
@@ -115,13 +120,14 @@ Yes i know the websiet is broeken
 </details>
 
 
+ <p></p>
 
 
 <details align="left">
     <summary>My contributions</summary>
     <p></p>
     
-[TS] [ProdigyMathGameHacking](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking) - exploiting prodigy kids math game (TypeScript, JavaScript)
+[TS] <a href="https://github.com/Prodigy-Hacking/ProdigyMathGameHacking">ProdigyMathGameHacking</a> - exploiting prodigy kids math game (TypeScript, JavaScript)
     
     
 </details>
