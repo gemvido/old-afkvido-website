@@ -57,8 +57,8 @@ Yes i know the websiet is broeken
     <summary>My achivements</summary>
     <p></p>
     
-  ![image](https://github-profile-trophy.vercel.app/?username=afkvido&rank=SSS,SS,S,AAA,AA,A,BBB,BB,B,C&theme=onedark)
-    
+<img width="500" src="https://github-profile-trophy.vercel.app/?username=afkvido&rank=SSS,SS,S,AAA,AA,A,BBB,BB,B,C&theme=onelight" href="https://github.com/afkvido">
+        
 </details>
 
 
