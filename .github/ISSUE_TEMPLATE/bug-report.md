@@ -1,7 +1,7 @@
 ---
 name: Bug Report
 about: Report a bug with this website
-title: ''
+title: "[B] title"
 labels: Bug, Open
 assignees: afkvido
 
