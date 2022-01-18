@@ -7,6 +7,8 @@
 
 
 
+Yes i know the websiet is broeken
+
 
 <details>
 <summary>Contact me</summary>
