@@ -7,15 +7,13 @@
 
 
 
-Yes i know the websiet is broeken
-
 
 <details>
 <summary>Contact me</summary>
     <p></p>
-<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" /> <a href="https://dsc.bio/gemsvido">gemsvido#6866</a>
+<img align="left" alt="Discord" width="26px" src="https://discord.com/assets/07dca80a102d4149e9736d4b162cff6f.ico" /> <a href="https://dsc.bio/gemsvido">. gemsvido#6866</a>
     <p></p>
-<img align="left" alt="Email" width="26px" src="https://www.google.com/a/cpanel/gmail.com/images/favicon.ico" /> <a href="mailto:gemsvido@gmail.com">gemsvido@gmail.com</a>
+<img align="left" alt="Email" width="26px" src="https://www.google.com/a/cpanel/gmail.com/images/favicon.ico" /> <a href="mailto:gemsvido@gmail.com">. gemsvido@gmail.com</a>
     <p></p>
 </details>
 
