@@ -85,31 +85,31 @@ Yes i know the websiet is broeken
     <p></p>
     
 [GFM] <a href="https://github.com/afkvido/afkvido">afkvido</a> - My profile (Markdown, GitHub Flavored Markdown)
-
+    <p></p>
 [Java <a href="https://github.com/afkvido-development/MessageEngine">MessageEngine</a> - chat engine platform thing (Pure Java)
-    
+    <p></p>
 [Java <a href="https://github.com/afkvido-development/MessageEngine-PTB">MessageEngine PTB</a> - MessageEngine Public Test Beta (Pure Java)
-    
+    <p></p>
 [Java <a href="https://github.com/afkvido/MessageEngine-Alpha">MessageEngine Alpha</a> - MessageEngine Public Alpha Test (Pure Java)
-    
+    <p></p>
 [GFM] <a href="https://github.com/iii9/m">iii9/m</a> - Redirect to MessageEngine (Markdown, GitHub Flavored Markdown)
-    
+    <p></p>
 [Java] <a href="https://github.com/afkvido/UsefulStuff">UsefulStuff</a> - Useful utilities that you can add to your java project for convenience (Pure Java)
-    
+    <p></p>
 [Java] <a href="https://github.com/afkvido/RDK">RDK</a> - Retard Development Kit for Java. For Retards, By Retards. (Pure Java)
-    
+    <p></p>
 [GFM] <a href="https://github.com/afkvido/afkvido.github.io">afkvido.github.io</a> - This website (HTML, Markdown, GitHub Flavored Markdown)
-    
+    <p></p>
 [Java] <a href="https://github.com/afkvido/EncryptCode">EncryptCode</a> - Encrypt your messages with this simple java project! _Discontinued, Archive_ (Pure Java)
-    
+    <p></p>
 [GFM] <a href="https://github.com/afkvido/prodigyErrCodes">prodigyErrCodes</a> - A list of error codes in Prodigy Math Game, used as an error code tracker for [PMGH](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking). (Markdown, GitHub Flavored Markdown)
-        
+    <p></p>
 [Java] <a href="https://github.com/afkvido-development/MessageEngineLITE">MessageEngineLITE</a> - chat engine platform thing, but less glitchy (Pure Java)
-    
+    <p></p>
 [YML]  <a href="https://github.com/afkvido-development/MessageEngine-ServerTemplate">MessageEngine ServerTemplate</a> - template for MessageEngine chatServers (Mostly YAML)
-    
+    <p></p>
 [YML] <a href="https://github.com/afkvido-development/MessageEngine-API">MessageEngine API</a> - API for MessageEngine updates and more (Mostly YAML)
-    
+    <p></p>
 [GFM] <a href="https://github.com/afkvido-development/afkvido-development.github.io">afkvido development website</a> - github page for afkvido-development (Markdown, GitHub Flavored Markdown)
     
 </details>
