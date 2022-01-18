@@ -41,8 +41,9 @@ Yes i know the websiet is broeken
 <details align="left">
     <summary>My statistics</summary>
     <p></p>
-    
-  ![image](https://github-readme-stats.vercel.app/api?username=afkvido&count_private=true&show_icons=true&include_all_commits=true&theme=dark)
+        
+<img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=afkvido&count_private=true&show_icons=true&include_all_commits=true&theme=dark" href="https://github.com/afkvido">
+
     
 </details>
 
