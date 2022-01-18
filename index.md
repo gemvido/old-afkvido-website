@@ -27,8 +27,8 @@ Yes i know the websiet is broeken
 <details align="left">
     <summary>My most used languages</summary>
     <p></p>
-    
-  ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=afkvido&layout=compact&theme=dark)
+        
+<img width="500" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afkvido&layout=compact&theme=light" href="https://github.com/afkvido">
     
 </details>
 
@@ -42,7 +42,7 @@ Yes i know the websiet is broeken
     <summary>My statistics</summary>
     <p></p>
         
-<img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=afkvido&count_private=true&show_icons=true&include_all_commits=true&theme=dark" href="https://github.com/afkvido">
+<img width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=afkvido&count_private=true&show_icons=true&include_all_commits=true&theme=light" href="https://github.com/afkvido">
 
     
 </details>
