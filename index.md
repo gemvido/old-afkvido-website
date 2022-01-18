@@ -84,21 +84,21 @@ Yes i know the websiet is broeken
     <summary>My repositories</summary>
     <p></p>
     
-[GFM] [afkvido](https://github.com/afkvido/afkvido) - This document (Markdown, GitHub Flavored Markdown)
+[GFM] <a href="https://github.com/afkvido/afkvido">afkvido</a> - My profile (Markdown, GitHub Flavored Markdown)
 
-[Java] [MessageEngine](https://github.com/afkvido-development/MessageEngine) - chat engine platform thing (Pure Java)
+[Java <a href="https://github.com/afkvido-development/MessageEngine">MessageEngine</a> - chat engine platform thing (Pure Java)
     
-[Java] [MessageEngine PTB](https://github.com/afkvido-development/MessageEngine-PTB) - MessageEngine Public Test Beta (Pure Java)
+[Java <a href="https://github.com/afkvido-development/MessageEngine-PTB">MessageEngine PTB</a> - MessageEngine Public Test Beta (Pure Java)
     
-[Java] [MessageEngine Alpha](https://github.com/afkvido/MessageEngine-Alpha) - MessageEngine Public Alpha Test (Pure Java)
+[Java <a href="https://github.com/afkvido/MessageEngine-Alpha">MessageEngine Alpha</a> - MessageEngine Public Alpha Test (Pure Java)
     
-[GFM] [ii9/m](https://github.com/iii9/m) - Redirect to MessageEngine (Markdown, GitHub Flavored Markdown)
+[GFM] <a href="https://github.com/iii9/m">iii9/m</a> - Redirect to MessageEngine (Markdown, GitHub Flavored Markdown)
     
-[Java] [UsefulStuff](https://github.com/afkvido/UsefulStuff) - Useful utilities that you can add to your java project for convenience (Pure Java)
+[Java] <a href="https://github.com/afkvido/UsefulStuff">UsefulStuff</a> - Useful utilities that you can add to your java project for convenience (Pure Java)
     
-[Java] [RDK](https://github.com/afkvido/RDK) - Retard Development Kit for Java. For Retards, By Retards. (Pure Java)
+[Java] <a href="https://github.com/afkvido/RDK">RDK</a> - Retard Development Kit for Java. For Retards, By Retards. (Pure Java)
     
-[GFM] [My GitHub website](https://github.com/afkvido/afkvido.github.io) - afkvido.github.io (Markdown, GitHub Flavored Markdown)
+[GFM] <a href="https://github.com/afkvido/afkvido.github.io">afkvido.github.io</a> - This website (HTML, Markdown, GitHub Flavored Markdown)
     
 [Java] [EncryptCode](https://github.com/afkvido/EncryptCode) - Encrypt your messages with this simple java project! _Discontinued, Archive_ (Pure Java)
     
