@@ -86,11 +86,11 @@ Yes i know the websiet is broeken
     
 [GFM] <a href="https://github.com/afkvido/afkvido">afkvido</a> - My profile (Markdown, GitHub Flavored Markdown)
     <p></p>
-[Java <a href="https://github.com/afkvido-development/MessageEngine">MessageEngine</a> - chat engine platform thing (Pure Java)
+[Java] <a href="https://github.com/afkvido-development/MessageEngine">MessageEngine</a> - chat engine platform thing (Pure Java)
     <p></p>
-[Java <a href="https://github.com/afkvido-development/MessageEngine-PTB">MessageEngine PTB</a> - MessageEngine Public Test Beta (Pure Java)
+[Java] <a href="https://github.com/afkvido-development/MessageEngine-PTB">MessageEngine PTB</a> - MessageEngine Public Test Beta (Pure Java)
     <p></p>
-[Java <a href="https://github.com/afkvido/MessageEngine-Alpha">MessageEngine Alpha</a> - MessageEngine Public Alpha Test (Pure Java)
+[Java] <a href="https://github.com/afkvido/MessageEngine-Alpha">MessageEngine Alpha</a> - MessageEngine Public Alpha Test (Pure Java)
     <p></p>
 [GFM] <a href="https://github.com/iii9/m">iii9/m</a> - Redirect to MessageEngine (Markdown, GitHub Flavored Markdown)
     <p></p>
