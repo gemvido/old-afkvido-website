@@ -77,6 +77,8 @@
 <a href="https://github.com/MsgEngine">MsgEngine</a> - MessageEngine server collection
     <p></p>
 <a href="https://github.com/iii9">iii9</a> - Redirect
+    <p></p>
+<a href="https://github.com/ProdigyErrorCodes">ProdigyErrorCodes</a> - Prodigy Error Codes
 
 </details>
 
