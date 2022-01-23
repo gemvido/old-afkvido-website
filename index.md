@@ -108,8 +108,6 @@
     <p></p>
 [Java] <a href="https://github.com/afkvido/EncryptCode">EncryptCode</a> - Encrypt your messages with this simple java project! _Discontinued, Archive_ (Pure Java)
     <p></p>
-[GFM] <a href="https://github.com/afkvido/prodigyErrCodes">prodigyErrCodes</a> - A list of error codes in Prodigy Math Game, used as an error code tracker for [PMGH](https://github.com/Prodigy-Hacking/ProdigyMathGameHacking). (Markdown, GitHub Flavored Markdown)
-    <p></p>
 [Java] <a href="https://github.com/afkvido-development/MessageEngineLITE">MessageEngineLITE</a> - chat engine platform thing, but less glitchy (Pure Java)
     <p></p>
 [YML]  <a href="https://github.com/afkvido-development/MessageEngine-ServerTemplate">MessageEngine ServerTemplate</a> - template for MessageEngine chatServers (Mostly YAML)
@@ -117,6 +115,8 @@
 [YML] <a href="https://github.com/afkvido-development/MessageEngine-API">MessageEngine API</a> - API for MessageEngine updates and more (Mostly YAML)
     <p></p>
 [GFM] <a href="https://github.com/afkvido-development/afkvido-development.github.io">afkvido development website</a> - github page for afkvido-development (Markdown, GitHub Flavored Markdown)
+        <p></p>
+[GFM] <a href="https://github.com/ProdigyErrorCodes/ProdigyErrorCodes">ProdigyErrorCodes</a> - List of behaviors that trigger errors in Prodigy Math Game. (Markdown, GitHub Flavored Markdown)
     
 </details>
 
