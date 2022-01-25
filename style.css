@@ -15,14 +15,6 @@ article, aside, figcaption, figure, footer, header, hgroup, main, menu, nav, sec
     display: block
 }
 
-details {
-    display: default
-}
-
-summary {
-    display: default
-}
-
 audio, canvas, progress, video {
     display: inline-block;
     vertical-align: baseline
