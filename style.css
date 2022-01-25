@@ -11,7 +11,7 @@ body {
     margin: 0
 }
 
-article, aside, figcaption, figure, footer, header, hgroup, main, menu, nav, section {
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
     display: block
 }
 
