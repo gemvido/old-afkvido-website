@@ -11,8 +11,16 @@ body {
     margin: 0
 }
 
-article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+article, aside, figcaption, figure, footer, header, hgroup, main, menu, nav, section {
     display: block
+}
+
+details {
+    display: default
+}
+
+summary {
+    display: default
 }
 
 audio, canvas, progress, video {
