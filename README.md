@@ -19,7 +19,7 @@
 ## Documentation
 * [Our README](https://github.com/afkvido/afkvido.github.io/blob/gh-pages/README.md) - Repository Documentation
 * [Workflows](https://github.com/afkvido/afkvido.github.io/tree/gh-pages/.github/workflows) - We're just using the free checkmark thing.
-* [Our Issue Templates](https://github.com/afkvido/afkvido.github.io/tree/gh-pages/.github/ISSUE_TEMPLATE) - Upgrading to issue forms soon.
+* [Our Issue Templates](https://github.com/afkvido/afkvido.github.io/tree/gh-pages/.github/ISSUE_TEMPLATE) - ISSUE FORMS YAY!
 * [Our License](https://github.com/afkvido/afkvido.github.io/blob/gh-pages/LICENSE.txt) - Mozilla Public License 2.0
 * [Website configuration](https://github.com/afkvido/afkvido.github.io/blob/gh-pages/_config.yml) - the website config yaml yml thing
 * [Favicon](https://github.com/afkvido/afkvido.github.io/blob/gh-pages/favicon.png) - just the icon
