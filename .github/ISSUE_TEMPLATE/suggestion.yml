@@ -1,6 +1,7 @@
 name: Feature Request
 description: Suggest an idea
 title: '[S] title'
+assignees: afkvido,donaldli2020
 labels: Enhancement, Open
 body:
 
