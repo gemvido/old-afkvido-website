@@ -1,6 +1,7 @@
 name: Bug Report
 description: Report a bug to help us improve the website.
 title: '[B] title'
+assignees: afkvido,donaldli2020
 labels: Bug,Open
 body:
 
