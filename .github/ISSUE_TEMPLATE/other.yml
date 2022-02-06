@@ -1,7 +1,7 @@
 name: Other
 description: Submit a blank issue.
 title: '[O] title'
-labels: Oepn
+labels: Open
 body:
 
   - type: textarea
