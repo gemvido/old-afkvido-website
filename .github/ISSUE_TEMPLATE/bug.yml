@@ -1,7 +1,7 @@
 name: Bug Report
 description: Report a bug to help us improve the website.
 title: '[B] title'
-labels: 'Bug', 'Open'
+labels: Bug,Open
 body:
 
   - type: textarea
