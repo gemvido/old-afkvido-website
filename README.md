@@ -6,7 +6,7 @@
 * [Pull Requests](https://github.com/afkvido/afkvido.github.io/pulls) - Contribute to this repository
 * [Discussions](https://github.com/afkvido/afkvido.github.io/discussions) - The forums! (Requested by [yeeteeyt](https://github.com/yeeteeyt))
 * [Actions](https://github.com/afkvido/afkvido.github.io/actions) - Automated testing provided by GitHub
-* [Insignts](https://github.com/afkvido/afkvido.github.io/pulse) - Repository Analytics
+* [Insights](https://github.com/afkvido/afkvido.github.io/pulse) - Repository Analytics
 
 ## The Forums
 * [The Forums](https://github.com/afkvido/afkvido.github.io/discussions)
