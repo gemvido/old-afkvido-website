@@ -46,7 +46,9 @@ template {
 }
 
 a {
-    background-color: transparent
+    background-color: transparent;
+    color: #1e6bb8;
+    text-decoration: none
 }
 
 a:active,
@@ -527,11 +529,6 @@ body {
     width: auto;
     background: #e19447;
     outline: thick solid #e19447
-}
-
-a {
-    color: #1e6bb8;
-    text-decoration: none
 }
 
 a:hover {
