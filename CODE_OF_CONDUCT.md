@@ -14,7 +14,7 @@ Summary: Don't be an uncultured brat.
 
 Long explanation: _A supplemental goal of this Code of Conduct is to increase open source citizenship by encouraging participants to recognize and strengthen the ~~relationships~~ between our actions and their effects on our community. Communities mirror the societies in which they exist and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society._
 
-If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, ~~please tell them to stop spamming my repository~~ we would be glad to hear!
+If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, ~~please tell them to stop spamming my repository~~ we would be glad to hear! (not me - yeeteeyt)
 
 ## 3. Do this please 
 
@@ -24,7 +24,7 @@ The following behaviors are expected and requested of all community members:
  * Attempt collaboration before conflict, unless you have a higher role in the repository. See [The Hierarchy] (Topic 11).
  * Refrain from hateful or harassing behavior and speech.
  * Report rule breakers to us! See [Contact Info] (Topic 10) to contact us.
- * Remember that community event venues may be shared with members of the public; **Except, we're wayyy too unpopularity and poor to host IRL events**
+ * Remember that community event venues may be shared with members of the public; ~~Except, we're wayyy too unpopularity and poor to host IRL events~~ oh so yeah, me, yeeteeyt will pay for shit because I am a rich elon mars ripoff don't worry guys
 
 ## 4. Dont do this or i ban 
 
@@ -77,7 +77,7 @@ Discord: [afkvido development](https://disboard.org/server/893975758677086238)
 ## 11. The Hierarchy
 
 Lowest to highest:
-
+-69420. people who spam poggers in chat
 1. A person who is their first time on this repo
 2. A person who is not their first time on this repo
 3. A person who is a 'regular' on this repo
